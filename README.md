@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ===================== ANIMATED HEADER ===================== -->
-<img src="<img src="https://capsule-render.vercel.app/api?type=waving&color=0:12002F,25:3A0CA3,50:7209B7,75:B5179E,100:F72585&height=230&section=header&text=PRANAVE%20ARAVIND&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Cloud%20%26%20AI%20Enthusiast%20%7C%20Cyber%20Security%20Student&descAlignY=58&descSize=19" width="100%"/>
+<img src="<img src="https://www.google.com/search?source=lns.web.gsbubu&vsdim=824,852&gsessionid=GwdaG3uEF3Z1fAYxf7CQ8T0OImyjcW3cs0ZUzNqaezPRlldCSRtS4Q&lsessionid=cHC11NWsYAbdm5TXrVl-o3w5YgKEE7bbGzWKECA0louGFDcdNllVvQ&lns_surface=26&biw=1280&bih=585&hl=en-IN&vsrid=CPSBpe6-kdWiERAEGAEiJDMyOTMxOUFDLUY5NEYtNEU0NC04NTk3LUJGM0M1QjJDRkUxMTKBASICdGEoYUJzCi5sZmUtZHVtbXk6N2Y1ZjFjNWItYjJmMS00YjY0LWEwNWMtMjhlMWY4NjZmNDAwEkEKPy9ibnMvdGEvYm9yZy90YS9ibnMvbGVucy1mcm9udGVuZC1hcGkvcHJvZC5sZW5zLWZyb250ZW5kLWFwaS80N1oECgJ0YTiR4-nc8v-WAw&udm=26&q=&vsint=CAQqCgoCCAcSAggWIAE6IwoWDeHuID8VJ8JmPh0CSCU_JR1aZD4wARC4BhjUBiUAAIA_&lns_mode=un&qsubts=1790001353782&stq=1&cs=1&lei=1kCxasb4Ma2l2roPw_PC8Qs&lns_vfs=c#sv=CAMSVhoyKhBlLWtJTVlydmNvXzI2QmFNMg5rSU1ZcnZjb18yNkJhTToOMkRMc3RRb3E1RkRiX00gBCocCgZtb3NhaWMSEGUta0lNWXJ2Y29fMjZCYU0YADABGAcg1ZiO4g9KCBABGAEgASgB"/>
 
 <br>"/>
 
