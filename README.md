@@ -1,11 +1,7 @@
 <div align="center">
 
 <!-- ===================== ANIMATED HEADER ===================== -->
-<img src="<img src="https://www.google.com/search?source=lns.web.gsbubu&vsdim=824,852&gsessionid=GwdaG3uEF3Z1fAYxf7CQ8T0OImyjcW3cs0ZUzNqaezPRlldCSRtS4Q&lsessionid=cHC11NWsYAbdm5TXrVl-o3w5YgKEE7bbGzWKECA0louGFDcdNllVvQ&lns_surface=26&biw=1280&bih=585&hl=en-IN&vsrid=CPSBpe6-kdWiERAEGAEiJDMyOTMxOUFDLUY5NEYtNEU0NC04NTk3LUJGM0M1QjJDRkUxMTKBASICdGEoYUJzCi5sZmUtZHVtbXk6N2Y1ZjFjNWItYjJmMS00YjY0LWEwNWMtMjhlMWY4NjZmNDAwEkEKPy9ibnMvdGEvYm9yZy90YS9ibnMvbGVucy1mcm9udGVuZC1hcGkvcHJvZC5sZW5zLWZyb250ZW5kLWFwaS80N1oECgJ0YTiR4-nc8v-WAw&udm=26&q=&vsint=CAQqCgoCCAcSAggWIAE6IwoWDeHuID8VJ8JmPh0CSCU_JR1aZD4wARC4BhjUBiUAAIA_&lns_mode=un&qsubts=1790001353782&stq=1&cs=1&lei=1kCxasb4Ma2l2roPw_PC8Qs&lns_vfs=c#sv=CAMSVhoyKhBlLWtJTVlydmNvXzI2QmFNMg5rSU1ZcnZjb18yNkJhTToOMkRMc3RRb3E1RkRiX00gBCocCgZtb3NhaWMSEGUta0lNWXJ2Y29fMjZCYU0YADABGAcg1ZiO4g9KCBABGAEgASgB"/>
 
-<br>"/>
-
-<br>
 <!-- ===================== TYPING ANIMATION ===================== -->
 
 <a href="https://github.com/pranavemamatha-2907">
