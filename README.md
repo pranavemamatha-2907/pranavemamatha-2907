@@ -21,14 +21,9 @@ Building intelligent software solutions for real-world problems.
 <code>CYBERSECURITY</code>
 
 <br><br>
-
 <a href="https://www.linkedin.com/in/pranave-aravind-455b50292/">
 💼 LinkedIn
-</a>
-
-&nbsp; • &nbsp;
-
-<a href="./Pranave%20Resume.pdf">
+</a> &nbsp; • &nbsp; <a href="./Pranave%20Resume.pdf">
 📄 Resume
 </a>
 
