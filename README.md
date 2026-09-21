@@ -75,8 +75,7 @@ rather than just studying technology theoretically.
 • Artificial Intelligence  
 • Machine Learning  
 • Deep Learning  
-• Data Analytics  
-• Cyber Security  
+• Data Analytics   
 • Real-world Software Solutions  
 
 </td>
