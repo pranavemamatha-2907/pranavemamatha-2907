@@ -301,7 +301,6 @@ Specialization: <b>Cyber Security</b>
 <td>
 
 2023 – Present<br>
-<b>CGPA: 8.2 / 10</b>
 
 </td>
 </tr>
@@ -317,7 +316,6 @@ Vignesh International School
 <td>
 
 2023<br>
-<b>69%</b>
 
 </td>
 </tr>
@@ -333,7 +331,6 @@ Maharishi Vidhya Mandir Higher Secondary School
 <td>
 
 2021<br>
-<b>71%</b>
 
 </td>
 </tr>
