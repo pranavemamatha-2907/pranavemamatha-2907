@@ -80,8 +80,7 @@ healthcare-related challenges.
 <div align="center">
 
 ### 🤝 LET'S CONNECT
-https://www.linkedin.com/in/pranave-aravind-455b50292/
 
-[LinkedIn](YOUR_LINKEDIN_LINK) • [Portfolio](YOUR_PORTFOLIO_LINK)
+[LinkedIn](https://www.linkedin.com/in/pranave-aravind-455b50292/) 
 
 </div>
