@@ -60,8 +60,7 @@ rather than just studying technology theoretically.
 
 • ☁️ Cloud Deployment using AWS  
 • 🤖 AI & Machine Learning Projects  
-• 🧠 Deep Learning & CNN  
-• 📊 Data Analytics & Visualization  
+• 🧠 Deep Learning & CNN   
 • 💻 Python Development  
 • 🌐 Web Application Development  
 
@@ -72,10 +71,8 @@ rather than just studying technology theoretically.
 <h3>🎯 Currently Exploring</h3>
 
 • AWS Cloud Services  
-• Artificial Intelligence  
-• Machine Learning  
-• Deep Learning  
-• Data Analytics   
+• Automated Application building 
+• Deep Learning     
 • Real-world Software Solutions  
 
 </td>
