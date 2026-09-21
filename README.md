@@ -2,10 +2,6 @@
 
 <!-- ===================== ANIMATED HEADER ===================== -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:12002F,25:3A0CA3,50:7209B7,75:B5179E,100:F72585&height=230&section=header&text=PRANAVE%20ARAVIND&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Cloud%20%26%20AI%20Enthusiast%20%7C%20Cyber%20Security%20Student&descAlignY=58&descSize=19" width="100%"/>
-
-<br>
-
 <!-- ===================== TYPING ANIMATION ===================== -->
 
 <a href="https://github.com/pranavemamatha-2907">
