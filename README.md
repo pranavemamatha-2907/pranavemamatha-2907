@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi 👋, I'm Pranave Aravind
 
-<!--
-**pranavemamatha-2907/pranavemamatha-2907** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Cybersecurity Student | AI & Cloud Enthusiast
 
-Here are some ideas to get you started:
+I'm passionate about building practical software solutions for real-world problems across different domains.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔐 Cybersecurity  
+☁️ Cloud Computing  
+🤖 Artificial Intelligence  
+🌾 AgriTech  
+⚖️ LegalTech  
+🏥 HealthTech  
+
+### 🚀 What I Do
+
+- 💡 Build software solutions for real-world challenges
+- 🤖 Explore AI-powered applications
+- ☁️ Work with cloud technologies
+- 🔐 Develop cybersecurity-focused solutions
+- 🌍 Apply technology across agriculture, legal and healthcare domains
+
+### 🛠️ Technologies
+
+`Python` `Java` `SQL` `AWS` `HTML` `CSS` `JavaScript`  
+`Git` `GitHub` `AI` `Machine Learning` `Cybersecurity`
+
+### 🎯 Currently Exploring
+
+**AI + Cloud + Cybersecurity**
+
+Building technology that solves meaningful problems.
+
+---
+
+### 🤝 Let's Connect
+
+[LinkedIn](YOUR_LINKEDIN_URL) • [Portfolio](YOUR_PORTFOLIO_URL)
