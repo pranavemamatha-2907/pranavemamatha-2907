@@ -34,4 +34,4 @@ Building technology that solves meaningful problems.
 
 ### 🤝 Let's Connect
 
-[LinkedIn](YOUR_LINKEDIN_URL) • [Portfolio](YOUR_PORTFOLIO_URL)
+[LinkedIn](https://www.linkedin.com/in/pranave-aravind-455b50292/) 
