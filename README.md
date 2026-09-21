@@ -1,37 +1,87 @@
-# Hi 👋, I'm Pranave Aravind
+<div align="center">
 
-### Cybersecurity Student | AI & Cloud Enthusiast
+# ✦ PRANAVE ARAVIND ✦
 
-I'm passionate about building practical software solutions for real-world problems across different domains.
+### `CLOUD & AI ENTHUSIAST`
 
-🔐 Cybersecurity  
-☁️ Cloud Computing  
-🤖 Artificial Intelligence  
-🌾 AgriTech  
-⚖️ LegalTech  
-🏥 HealthTech  
+**Building intelligent software solutions for real-world problems.**
 
-### 🚀 What I Do
+🌾 **AgriTech** &nbsp; • &nbsp; ⚖️ **LegalTech** &nbsp; • &nbsp; 🏥 **HealthTech**
 
-- 💡 Build software solutions for real-world challenges
-- 🤖 Explore AI-powered applications
-- ☁️ Work with cloud technologies
-- 🔐 Develop cybersecurity-focused solutions
-- 🌍 Apply technology across agriculture, legal and healthcare domains
+<br>
 
-### 🛠️ Technologies
+> *Turning real-world challenges into technology-driven solutions.*
 
-`Python` `Java` `SQL` `AWS` `HTML` `CSS` `JavaScript`  
-`Git` `GitHub` `AI` `Machine Learning` `Cybersecurity`
-
-### 🎯 Currently Exploring
-
-**AI + Cloud + Cybersecurity**
-
-Building technology that solves meaningful problems.
+</div>
 
 ---
 
-### 🤝 Let's Connect
+<div align="center">
 
-[LinkedIn](https://www.linkedin.com/in/pranave-aravind-455b50292/) 
+### ⚡ WHAT I BUILD
+
+`☁ CLOUD` &nbsp;&nbsp; `🤖 AI` &nbsp;&nbsp; `🔐 CYBERSECURITY`
+
+</div>
+
+<br>
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+
+### 🌾 AgriTech
+
+AI-powered and software-driven solutions  
+for agriculture and farming challenges.
+
+</td>
+
+<td align="center" width="33%">
+
+### ⚖️ LegalTech
+
+Technology solutions designed to simplify  
+legal processes and information.
+
+</td>
+
+<td align="center" width="33%">
+
+### 🏥 HealthTech
+
+Practical digital solutions addressing  
+healthcare-related challenges.
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+### 🚀 CURRENTLY EXPLORING
+
+**Artificial Intelligence** · **Cloud Computing** · **Cybersecurity**
+
+`Python` `Java` `SQL` `AWS` `Machine Learning` `Git` `GitHub`
+
+<br>
+
+**Building at the intersection of**
+
+### `AI × CLOUD × REAL-WORLD IMPACT`
+
+</div>
+
+---
+
+<div align="center">
+
+### 🤝 LET'S CONNECT
+https://www.linkedin.com/in/pranave-aravind-455b50292/
+
+[LinkedIn](YOUR_LINKEDIN_LINK) • [Portfolio](YOUR_PORTFOLIO_LINK)
+
+</div>
